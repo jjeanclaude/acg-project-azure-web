@@ -10,8 +10,8 @@ Sample project to host a website to display resume, following the guide above
 
 Scratchwork below
 
-'''js
+```js
 const
-'''
+```
 
 Above is a code snippet
